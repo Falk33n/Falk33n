@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Falk33n!
-- 👀 I’m interested in learning new things everyday, I thrive in educating myself
-- 🌱 I’m currently learning C# .NET && React
+- 👀 I’m interested in learning new things everyday, I thrive in educating myself.
+- 🌱 I’m currently learning C# .NET && React.
 - 📫 You can reach me by mail: tim.falk.webd23jon@edu.tucsweden.se || LinkedIn: https://www.linkedin.com/in/timfalkwebbdev/
 - 💬 Ask me about anything!
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace. She wrote the world's first algorithm intended for processing on Charles Babbage's Analytical Engine, a general-purpose mechanical computer designed in the 1830s. Ada Lovelace is often regarded as the world's first computer programmer, and her work laid the foundation for future advancements in computing.
