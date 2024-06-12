@@ -1,9 +1,6 @@
 ```markdown
 # Hi there, I'm Tim Falk
 
-![Header](./header.png)
-
-```json
 {
   "name": "Tim Falk",
   "username": "@Falk33n",
