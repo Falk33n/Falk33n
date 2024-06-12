@@ -1,4 +1,7 @@
+```markdown
 # Hi there, I'm Tim Falk
+
+![Header](./header.png)
 
 ```json
 {
