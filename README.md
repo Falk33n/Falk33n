@@ -1,7 +1,29 @@
-- 👋 Hi, I’m @Falk33n!
-- 👀 I’m interested in learning new things everyday, I thrive in educating myself.
-- 🌱 I’m currently learning C# .NET && React.
-- 📫 You can reach me by mail: tim.falk.webd23jon@edu.tucsweden.se || LinkedIn: https://www.linkedin.com/in/timfalkwebbdev/
-- 💬 Ask me about anything!
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: The first computer programmer was a woman named Ada Lovelace. She wrote the world's first algorithm intended for processing on Charles Babbage's Analytical Engine, a general-purpose mechanical computer designed in the 1830s. Ada Lovelace is often regarded as the world's first computer programmer, and her work laid the foundation for future advancements in computing.
+{
+  "name": "Tim Falk",
+  "username": "@Falk33n",
+  "description": "Addicted Developer",
+  "homepage": "timswebb.com",
+  "repository": {
+    "type": "Open-source",
+    "url": "github.com/Falk33n"
+  },
+  "engines": [
+    "javascript",
+    "c#",
+  ],
+  "dependencies": {
+    "typescript": "5.4.5",
+    "react": "^18.2.0",
+    "next": "^14.2.4",
+    "prisma": "^5.15.0",
+    "trcp": "^10.45.2"
+  },
+  "devDependencies": {
+    "editor": "vscode",
+    "fuel": [
+      "coffee",
+      "code",
+      "snus"
+    ],
+  }
+}
